@@ -4,6 +4,8 @@ join products p on s.SupplierID = p.SupplierID
 group by s.SupplierID 
 order by AveragePrice DESC
 
+-----------------------------------------------------------
+
 
 47	Ward PLC	967.44
 16	Chaney and Sons	873.02
